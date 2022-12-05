@@ -37,6 +37,8 @@ const PersonCard = props => {
                 <button onClick={restart}> Go back to your original age!</button>
             </div>
         </div>
+
+        
     )
 }
 
